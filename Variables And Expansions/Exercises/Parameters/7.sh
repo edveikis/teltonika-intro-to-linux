@@ -1,0 +1,1 @@
+echo "$greeting" > "${greeting// /_}.txt"

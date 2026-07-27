@@ -1,0 +1,1 @@
+bash -c 'shift; echo "$1"' -- 1 2 'third'

@@ -1,0 +1,1 @@
+exec 3>&1 >log; echo 'Hello!'; exec 1>&3 3>&-

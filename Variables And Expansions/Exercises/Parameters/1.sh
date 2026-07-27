@@ -1,0 +1,1 @@
+greeting="hello big world"; middle="${greeting% *}"; middle="${middle#* }"; echo "${middle^^}"
